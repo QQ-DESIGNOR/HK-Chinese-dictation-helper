@@ -1,0 +1,7 @@
+{
+  "name": "香港小學生中文默書小助手 (Dictation Helper)",
+  "description": "An interactive, AI-powered Chinese dictation assistant for children. Features SVG animations, Gemini TTS, and intelligent feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
